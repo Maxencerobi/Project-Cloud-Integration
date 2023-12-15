@@ -1,10 +1,10 @@
-package fr.efrei;
+package fr.efrei.server;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class StudentServerApplicationTests {
+class ServerApplicationTests {
 
 	@Test
 	void contextLoads() {
